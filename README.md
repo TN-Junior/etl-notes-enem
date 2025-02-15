@@ -3,7 +3,7 @@ O objetivo principal é desenvolver uma pipeline de ETL utilizando Python, toman
 
 ---
 
-## Meu Projeto: Pipeline ETL - Análise de Desempenho no ENEM
+## Projeto: Pipeline ETL - Análise de Desempenho no ENEM
 
 ### Contexto
 Uma escola de ensino médio disponibilizou um arquivo CSV contendo os resultados do Exame Nacional do Ensino Médio (ENEM) de seus alunos nos últimos cinco anos (2018 a 2022). O objetivo é criar uma pipeline ETL para:
